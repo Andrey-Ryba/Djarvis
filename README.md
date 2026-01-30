@@ -6,17 +6,17 @@
 
 This project is an implementation of a voice-controlled AI assistant, inspired by the Jarvis system from the Iron Man universe. While the original idea was sparked by a tutorial from Howdyho, this version is a complete overhaul. I have rewritten the core logic and developed custom AI solutions for speech interaction to make the system more flexible and "intelligent."
 
-The project was completed and successfully defended with an Excellent (A+) grade in March 2025 as part of my 11th-grade final project activity.
+The project was completed and successfully defended with an Excellent (A+) grade in March 2025 as part of my school final project activity.
 
 🚀 Key Features
 
-Custom Speech Recognition (STT): Developed using modern AI frameworks to accurately capture and process my voice commands.
+- Custom Speech Recognition (STT): Developed using modern AI frameworks to accurately capture and process my voice commands.
 
-Custom Speech Synthesis (TTS): A unique AI model created to synthesize a natural-sounding voice for Jarvis.
+- Custom Speech Synthesis (TTS): A unique AI model created to synthesize a natural-sounding voice for Jarvis.
 
-Optimized Core Logic: The entire codebase was rewritten from scratch to improve response speed and task handling.
+- Optimized Core Logic: The entire codebase was rewritten from scratch to improve response speed and task handling.
 
-Real-Life Application: The system was demonstrated in practice during the project defense, performing real-time tasks.
+- Real-Life Application: The system was demonstrated in practice during the project defense, performing real-time tasks.
 
 🛠 Tech Stack
 - Language: Python
@@ -37,13 +37,13 @@ Real-Life Application: The system was demonstrated in practice during the projec
 
 🚀 Основные особенности
 
-Собственное распознавание речи (STT): Разработано с использованием современных нейросетевых подходов для точной обработки моих команд.
+- Собственное распознавание речи (STT): Разработано с использованием современных нейросетевых подходов для точной обработки моих команд.
 
-Собственный синтез речи (TTS): Написан ИИ для генерации голоса Джарвиса, что делает общение более естественным.
+- Собственный синтез речи (TTS): Написан ИИ для генерации голоса Джарвиса, что делает общение более естественным.
 
-Переработанная логика: Код полностью переписан для повышения производительности и гибкости системы.
+- Переработанная логика: Код полностью переписан для повышения производительности и гибкости системы.
 
-Практическая демонстрация: Проект был успешно показан в действии во время защиты, выполняя задачи в реальном времени.
+- Практическая демонстрация: Проект был успешно показан в действии во время защиты, выполняя задачи в реальном времени.
 
 🛠 Стек технологий
 - Язык: Python
