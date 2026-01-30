@@ -1,4 +1,4 @@
-## 🤖 Djarvis: Real-Life AI Assistant
+## 🤖 Watermelon(арбуз): Real-Life AI Assistant
 
 # The goal of this project was to leverage cutting-edge technologies and demonstrate a commitment to staying at the forefront of modern technical advancements.
 
